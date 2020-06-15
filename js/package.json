@@ -1,0 +1,25 @@
+{
+  "name": "storybook-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start-storybook",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@storybook/react": "^5.3.19",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.6.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2"
+  }
+}
